@@ -2,7 +2,7 @@
   "name": "blog",
 
   
-  "image": "hugomods/hugo:std-0.141.0",
+  "image": "hugomods/hugo:exts-0.141.0",
 
   // 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
   // "features": { "ghcr.io/devcontainers/features/docker-in-docker:2": {} },
