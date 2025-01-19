@@ -2,7 +2,7 @@
 date: 2025-01-18T11:46:11Z
 title: "Hello this is my first blog"
 description: "Well yes sir, this is a blog"
-slug: ""
+slug: "bob bob bob"
 authors: []
 tags: []
 categories: ["code"]
@@ -46,9 +46,6 @@ val x = 15
 val z = abc(x)(y)
 
 def bobby(a: Int) String {
-    return a + 10
+    (a + 10).toString
 }
 ```
-
-
-{{ .Lastmod }}
