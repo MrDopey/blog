@@ -49,3 +49,5 @@ def bobby(a: Int) String {
     (a + 10).toString
 }
 ```
+
+[the other blog]({{< relref path="posts/2025-01-verifying-docker-caching" >}})
