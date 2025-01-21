@@ -1,0 +1,9 @@
+.breadcrumblet {
+  display: inline;
+  padding-right: 1rem;
+}
+
+.breadcrumb a:not(:last-child)::after {
+  content: "»";
+  padding-left: 1rem;
+}

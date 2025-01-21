@@ -1,0 +1,12 @@
+<li>
+  <div aria-label="breadcrumb" class="breadcrumb">
+      {{ range $i, $e := .Ancestors.Reverse }}
+        {{/*  skip over the home and /posts  */}}
+        {{ if gt $i 1}} 
+            <a class="breadcrumblet" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+      {{ end }}
+    <div class="breadcrumblet">{{ .Date | time.Format (.Site.Params.dateFormat | default "02" ) }}</div>
+  </div>
+  <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+</li>

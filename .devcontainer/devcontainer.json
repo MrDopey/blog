@@ -17,9 +17,9 @@
       // Set *default* container specific settings.json values on container create.
       "settings": {
         "html.format.templating": true,
+        "editor.tabSize": 2,
         "[markdown]": {
           "editor.insertSpaces": true,
-          "editor.tabSize": 2
         },
         "cSpell.words": [
           "graphviz"

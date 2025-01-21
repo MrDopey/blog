@@ -50,4 +50,4 @@ def bobby(a: Int) String {
 }
 ```
 
-[the other blog]({{< relref path="posts/2025-01-verifying-docker-caching" >}})
+[the other blog]({{< relref path="posts/2025/01/verifying-docker-caching" >}})
