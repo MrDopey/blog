@@ -6,7 +6,14 @@
     <header>
       <h1 class="title">
         <a class="title-link" href="{{ .Permalink | safeURL }}">
-          {{ title (i18n (lower .Title)) | default .Title }}
+          {{ $subtitle :=  title (i18n (lower .Title)) | default .Title }}
+          {{ if eq (len .Ancestors) 2 }}
+            Year: {{ $subtitle }}
+          {{ else if eq (len .Ancestors) 3 }}
+            Month: {{ $subtitle }}
+          {{ else }}
+            {{ $subtitle }}
+          {{ end }}
         </a>
       </h1>
     </header>
