@@ -1,5 +1,6 @@
 --- 
 date: 2025-01-18T11:46:11Z
+draft: true
 title: "Hello this is my first blog"
 description: "Well yes sir, this is a blog"
 slug: "bob bob bob"
@@ -34,6 +35,8 @@ One note here.
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text. :wave:
+
+[emojis](https://gohugo.io/quick-reference/emojis/ 'emojjis')
 
 ```ts
 const a = [];
