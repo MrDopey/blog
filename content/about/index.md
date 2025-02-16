@@ -61,7 +61,13 @@ In order, the major stuff I learnt while working as a software developer
 
 To varying degrees of proficiency
 
+- [Hugo](https://gohugo.io/about/introduction/) (This site!)
 - Learnt some [Category Theory](https://en.wikipedia.org/wiki/Category_theory), but still confused about it
+- [Vim / Neovim](https://neovim.io/)
 - [Vue.js](https://vuejs.org/guide/introduction.html)
 - [Rust](https://www.rust-lang.org/)
 - [Go-lang](https://go.dev/doc/)
+
+## Random
+
+- I type with [colemak](https://colemak.com/) layout
