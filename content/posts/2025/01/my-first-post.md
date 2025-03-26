@@ -17,7 +17,6 @@ series: []
 
 {{</tabgroup>}}
 
-
 {{< mermaid >}}
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -27,7 +26,6 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
 {{</mermaid>}}
 
-
 {{< notice warning "Yo hold up" >}}
 One note here.
 {{< /notice >}}
@@ -36,13 +34,12 @@ One note here.
 
 This is **bold** text, and this is *emphasized* text. :wave:
 
-[emojis](https://gohugo.io/quick-reference/emojis/ 'emojjis')
+[emojis](https://gohugo.io/quick-reference/emojis/ 'emote')
 
 ```ts
 const a = [];
 a.find(x => x === 'hello')
 ```
-
 
 ```scala
 val x = 15
@@ -54,3 +51,5 @@ def bobby(a: Int) String {
 ```
 
 [the other blog]({{< relref path="posts/2025/01/verifying-docker-caching" >}})
+
+![suspicious](https://media1.tenor.com/m/s1wnF2DiWA0AAAAd/skeptical-futurama.gif)

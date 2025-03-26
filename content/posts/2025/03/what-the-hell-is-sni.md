@@ -98,7 +98,7 @@ Suggestion
 - Use unix sockets
 - Use network level solutions like `iptables`
 - Application level changes to the backend of my proxy to accept my IP
-- Reverse DNS 
+- Reverse DNS
 - Custom TCP proxy
 
 Then suggested some alternative application that would solve my problem

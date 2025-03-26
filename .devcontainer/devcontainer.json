@@ -22,7 +22,14 @@
           "editor.insertSpaces": true,
         },
         "cSpell.words": [
-          "graphviz"
+          "dagbag",
+          "graphviz",
+          "looky",
+          "relref",
+          "smoosh",
+          "tabgroup",
+          "taskgroup",
+          "traefik",
         ]
       },
       // Add the IDs of extensions you want installed when the container is created.
