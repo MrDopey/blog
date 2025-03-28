@@ -1,0 +1,22 @@
+<!-- favicon.svg, seeded by  -->
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background for a sleek, tech-inspired look -->
+  <rect width="64" height="64" fill="#1d1f21"/>
+  
+  <!-- A pronounced curve representing the midwit curve -->
+  <path d="M8,60 Q32,8 56,60" 
+        stroke="#61dafb" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- A circle at the apex to emphasize the midwit moment -->
+  <circle cx="16" cy="8" r="5" fill="#61dafb"/>
+  
+  <circle cx="48" cy="8" r="5" fill="#61dafb"/>
+
+  
+  <!-- A subtle letter 'M' inside the circle to reinforce the concept -->
+  <text x="32" y="24" 
+        font-size="4" font-family="Arial, sans-serif" fill="#61dafb" 
+        text-anchor="middle" dominant-baseline="middle">
+    Midwit
+  </text>
+</svg>
