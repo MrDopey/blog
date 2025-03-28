@@ -18,12 +18,6 @@ style = "monokai"
   # avatarurl = "images/avatar.jpg"
   gravatar = "beforewards@gmail.com"
 
-  faviconSVG = "img/favicon.svg"
-  favicon_32 = "img/favicon-32x32.png"
-  favicon_16 = "img/favicon-16x16.png"
-
-  touchicon = "images/apple-touch-icon.png" 
-
   since = 2025
 
   enableTwemoji = false
