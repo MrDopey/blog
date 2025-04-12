@@ -10,7 +10,20 @@
   <!-- A circle at the apex to emphasize the midwit moment -->
   <circle cx="16" cy="8" r="5" fill="#61dafb"/>
   
+  <text x="16" y="8" 
+        font-size="4" font-family="Arial, sans-serif" 
+        text-anchor="middle" dominant-baseline="middle">
+    I
+  </text>
+  
+
   <circle cx="48" cy="8" r="5" fill="#61dafb"/>
+  
+   <text x="48" y="8" 
+        font-size="4" font-family="Arial, sans-serif" 
+        text-anchor="middle" dominant-baseline="middle">
+    Am
+  </text>
 
   
   <!-- A subtle letter 'M' inside the circle to reinforce the concept -->
