@@ -1,6 +1,5 @@
 --- 
 date: 2025-04-26T11:42:35Z
-draft: true
 title: 'Midpoint Rounding Makes Me Sad Circa 2017'
 description: ""
 slug: ''
