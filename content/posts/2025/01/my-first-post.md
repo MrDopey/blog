@@ -51,5 +51,8 @@ def bobby(a: Int) String {
 ```
 
 [the other blog]({{< relref path="posts/2025/01/verifying-docker-caching" >}})
+[the other link to the blog](/posts/2025/01/verifying-docker-caching)
 
 ![suspicious](https://media1.tenor.com/m/s1wnF2DiWA0AAAAd/skeptical-futurama.gif)
+
+Raw link <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#roundingmode>
