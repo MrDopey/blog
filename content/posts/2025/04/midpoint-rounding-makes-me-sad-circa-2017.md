@@ -4,7 +4,7 @@ title: 'Midpoint Rounding Makes Me Sad Circa 2017'
 description: ""
 slug: ''
 authors: []
-tags: []
+tags: ['javascript', 'C#']
 categories: []
 externalLink: ""
 series: []
