@@ -29,6 +29,14 @@ style = "monokai"
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
+  faviconSVG = "images/favicon.svg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16.png"
+
+  touchicon = "images/apple-touch-icon.png" 
+  manifest = "site.webmanifest"
+  mask_icon = "images/safari-pinned-tab.svg" 
+  
 [taxonomies]
   category = "categories"
   series = "series"
