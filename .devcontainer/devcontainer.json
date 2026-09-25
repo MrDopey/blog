@@ -2,13 +2,14 @@
   "name": "blog",
 
   
-  "image": "hugomods/hugo:exts-0.141.0",
+  "image": "hugomods/hugo:debian-node-0.165.0",
 
   // 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
   // "features": { "ghcr.io/devcontainers/features/docker-in-docker:2": {} },
 
   // 👇 Use 'forwardPorts' to make a list of ports inside the container available locally.
-  // "forwardPorts": [],
+  "forwardPorts": [ 1313 ],
+  "appPort": [ 1313 ],
 
   // Configure tool-specific properties.
   "customizations": {
